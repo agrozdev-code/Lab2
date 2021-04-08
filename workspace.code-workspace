@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Lab2-1",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string": "cpp"
+		}
+	}
+}
