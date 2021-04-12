@@ -2,7 +2,7 @@ function compute()
 {
     var p = document.getElementById("principal").value;
     if (p == '' || p<=0) {
-        alert("Please, enter correct principal!");
+        alert("Please, enter a positive number for the principal!");
         document.getElementById("principal").focus();
         return;
     }
